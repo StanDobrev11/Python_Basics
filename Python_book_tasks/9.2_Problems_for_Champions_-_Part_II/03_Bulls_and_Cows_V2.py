@@ -14,7 +14,7 @@ for index in range(4):
 
 # print(*guessed_numbers, sep="")
 
-cow = 0
+cow = 2
 bull = 0
 # number = input()
 # number = list(number)

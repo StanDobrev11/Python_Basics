@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9f4f7ee-72e3-48bb-8c4a-f2843fd37b5a" name="Changes" comment="" />
+    <list default="true" id="e9f4f7ee-72e3-48bb-8c4a-f2843fd37b5a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Programming_Basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programming_Basics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_Nested Loops/Additional/01_Unique_PIN_Codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Nested Loops/Additional/01_Unique_PIN_Codes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming_Basics_Online-Exam/09_10_March_2019/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programming_Basics_Online-Exam/09_10_March_2019/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming_Basics_Online-Exam/15_and_16_June_2019/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programming_Basics_Online-Exam/15_and_16_June_2019/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming_Basics_Online-Exam/18_and_19_July_2020/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programming_Basics_Online-Exam/18_and_19_July_2020/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming_Basics_Online-Exam/28_and_29_March_2020/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programming_Basics_Online-Exam/28_and_29_March_2020/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming_Basics_Online-Exam/2_and_3_May_2019/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programming_Basics_Online-Exam/2_and_3_May_2019/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming_Basics_Online-Exam/6_and 7_April_2019/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programming_Basics_Online-Exam/6_and 7_April_2019/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming_Basics_Online-Exam/6_and_7_July_2019/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programming_Basics_Online-Exam/6_and_7_July_2019/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming_Basics_Online-Exam/April_2019/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programming_Basics_Online-Exam/April_2019/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_book_tasks/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Python_book_tasks/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_book_tasks/9.2_Problems_for_Champions_-_Part_II/03_Bulls_and_Cows_V2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_book_tasks/9.2_Problems_for_Champions_-_Part_II/03_Bulls_and_Cows_V2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +32,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2P7E32tdDvfZi7f9rmW8cYS3MTq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,7 +50,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dobre/PycharmProjects/Programming_Basics_Online-Exam/2_and_3_May_2019/04_Tourist_Shop.py&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Master/PycharmProjects/Python_Basics&quot;
   }
 }</component>
   <component name="RecentsManager">
